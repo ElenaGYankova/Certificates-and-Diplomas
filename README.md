@@ -1,7 +1,4 @@
-# Certificates-and-Diplomas
-Certificates-and-Diplomas | Elena Yankova
-
-# <p align="center"> Courses from the main program in SoftUni <p>
+# <p align="center"> Elena Yankova's Certificates and Diplomas <p>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg?sanitize=true" alt="Software University Logo"></a>
 
@@ -24,16 +21,17 @@ Certificates-and-Diplomas | Elena Yankova
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/users/profile/trainings?username=EIena#course-instance-4130" > Programming Basics with Python </a>         | <a href="https://softuni.bg/users/profile/certificates?username=EIena"> Link</a> |
-| <a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> Python Advanced </a>                                             | <a href="https://softuni.bg/certificates/details/67808/53c65af2"> Link</a> |
-| <a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019"> Python OOP </a>                                                      | <a href="https://softuni.bg/certificates/details/69879/170aecca"> Link</a> |
+| <a href="https://softuni.bg/trainings/4002/programming-basics-with-python-march-2023" > Programming Basics with Python </a>         | <a href="https://softuni.bg/users/profile/certificates?username=EIena"> Link</a> |
+| <a href="https://softuni.bg/trainings/4097/programming-fundamentals-with-python-may-2023"> Python Fundamentals </a>                                             | <a href="https://softuni.bg/certificates"> Link</a> |
+| <a href="https://softuni.bg/trainings/3848/python-advanced-september-2022"> Python Advanced </a>                                             | <a href="https://softuni.bg/certificates"> Link</a> |
+| <a href="https://softuni.bg/trainings/4199/algorithms-with-python-july-2023"> Algorithms with Python </a>                                                      | <a href="https://softuni.bg/trainings/4199/algorithms-with-python-july-2023"> Link</a> |
 
 </td>
 <td>
 
 | **Course**                                                                                  | **Link**                                                                    |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <a href="https://softuni.bg/users/profile/trainings?username=EIena#course-instance-3990"> Java Basics </a>          | <a href="https://softuni.bg/users/profile/certificates?username=EIena"> Link </a> |
+| <a href="https://softuni.bg/trainings/3990/programming-basics-with-java-january-2023"> Java Basics </a>          | <a href="https://softuni.bg/users/profile/certificates?username=EIena"> Link </a> |
 
 </td>
 
